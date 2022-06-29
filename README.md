@@ -5,13 +5,13 @@
 
 <p align="center"> <a href="https://twitter.com/pumpkin_cod" target="blank"><img src="https://img.shields.io/twitter/follow/pumpkin_cod?logo=twitter&style=for-the-badge" alt="pumpkin_cod" /></a> </p>
 <div align="center">
-- 🌱 I’m currently learning **ReactJs**
+ 🌱 I’m currently learning **ReactJs**
 
-- 💬 Ask me about **Html Css Javascript Bootstrap TailwindCss**
+ 💬 Ask me about **Html Css Javascript Bootstrap TailwindCss**
 
-- 📫 How to reach me **katieboye44@gmail.com**
+ 📫 How to reach me **katieboye44@gmail.com**
 
-- ⚡ Fun fact **I am affable**
+ ⚡ Fun fact **I am affable**
 </div>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
