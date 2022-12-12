@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Catherine Okang-Boye</h1>
 <h3 align="center">A frontend developer from Ghana</h3>
-<img src =“https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?compress=1&resize=400x300” />
+<img src =“[https://cdn.dribbble.com/users/2131993/screenshots/15628402/media/7bb0d27e44d8c2eff47276ae86bfd6a3.png?](https://grandparade.co.uk/_userfiles/uploads/Main_Photos/LOGO_v2-02.png?1591626349458)compress=1&resize=400x300” />
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pumpkin-cod&label=Profile%20views&color=0e75b6&style=flat" alt="pumpkin-cod" /> </p>
 
 <p align="center"> <a href="https://twitter.com/pumpkin_cod" target="blank"><img src="https://img.shields.io/twitter/follow/pumpkin_cod?logo=twitter&style=for-the-badge" alt="pumpkin_cod" /></a> </p>
